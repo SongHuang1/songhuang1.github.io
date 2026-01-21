@@ -1,9 +1,5 @@
 
-
-![Github Forks](https://img.shields.io/github/forks/senli1073/academic-homepage-template?style=flat)
-![Github Stars](https://img.shields.io/github/stars/senli1073/academic-homepage-template?style=flat)
-![License](https://img.shields.io/github/license/senli1073/academic-homepage-template)
-![Last Commit](https://img.shields.io/github/last-commit/senli1073/academic-homepage-template)
+Thank you to Li Sen for providing the template. His elegant aesthetic and helpful open source spirit led me to use his templates to create my personal profile. The following is the original warehouse document: [click here](https://github.com/senli1073/academic-homepage-template)
 
 # A simple Github Pages template for personal academic websites.
 

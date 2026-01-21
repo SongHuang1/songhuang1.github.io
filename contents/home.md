@@ -1,17 +1,17 @@
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+目前正在寻找2027年入职的人工智能方向的工作
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: weilaikeqi0808@163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+西安电子科技大学电子信息工程专业2027届本科毕业生
+
+2027 undergraduate graduates majoring in Electronic Information Engineering at Xidian University
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+人工智能；机器学习；多模态大模型；计算机视觉；领域自适应
+
+Artificial Intelligence, Machine Learning, Multimodal Large Models, Computer Vision, Domain Adaptation
 
